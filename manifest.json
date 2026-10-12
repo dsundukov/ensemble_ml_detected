@@ -1,0 +1,113 @@
+{
+  "archive": "detector.tar.gz",
+  "folder": "detector",
+  "size": 417778888,
+  "sha256": "77b332618ea7a181bf97fa20331c1458f7e37d2d49627a1d523b7d8605fe4494",
+  "parts": [
+    {
+      "name": "detector.tar.gz.part001",
+      "size": 19922944,
+      "sha256": "46504b54a8299fa5b8c4db7b15af9de2600404fde1da772750c63233127616c5"
+    },
+    {
+      "name": "detector.tar.gz.part002",
+      "size": 19922944,
+      "sha256": "b102c42d65611e4b7de8726d4281a89320d1084fbffbabaa983122ab8d6de751"
+    },
+    {
+      "name": "detector.tar.gz.part003",
+      "size": 19922944,
+      "sha256": "3860f0fd4020eaf5e82ccec5cadf060f3187daacb17910b5c0b2f9a2849f96ef"
+    },
+    {
+      "name": "detector.tar.gz.part004",
+      "size": 19922944,
+      "sha256": "97e1aafd87705263e335d03ed8ebcdbb2b5f60f51917e5585a329dbaadb9a470"
+    },
+    {
+      "name": "detector.tar.gz.part005",
+      "size": 19922944,
+      "sha256": "dc0ef08e53f2070ceb98698e8175b3ec6ba37263e2857b2947ea93779c8ff3c5"
+    },
+    {
+      "name": "detector.tar.gz.part006",
+      "size": 19922944,
+      "sha256": "59eb982fbea24a7289ad56815b86ab9988d2b1dcf158a41627d9389009f2e044"
+    },
+    {
+      "name": "detector.tar.gz.part007",
+      "size": 19922944,
+      "sha256": "67e0f61e20279cfc1bc7bed5cae007a6a4590d1b593aa0bb25b6a6800cccd59e"
+    },
+    {
+      "name": "detector.tar.gz.part008",
+      "size": 19922944,
+      "sha256": "8645bda28e4989f4095c3941768e3ade02ec1f8f1245c661f5bb3f65f02d36d8"
+    },
+    {
+      "name": "detector.tar.gz.part009",
+      "size": 19922944,
+      "sha256": "388b8fb1cf4a79fda196dff870787b33b2837783970b250421b06419d1ee6549"
+    },
+    {
+      "name": "detector.tar.gz.part010",
+      "size": 19922944,
+      "sha256": "3d874751165858519a8dca72c42d9ae98661da129c6f0c21b005baa1eaa74fa2"
+    },
+    {
+      "name": "detector.tar.gz.part011",
+      "size": 19922944,
+      "sha256": "02feedf21787c154767d895c782c39d71258cc462edfbc99d3ace814164cd95f"
+    },
+    {
+      "name": "detector.tar.gz.part012",
+      "size": 19922944,
+      "sha256": "288c736cff4b68623f7d01d483cf2ab134e0a1db25d50c768d5962d89ff55570"
+    },
+    {
+      "name": "detector.tar.gz.part013",
+      "size": 19922944,
+      "sha256": "877b3e3c727b3a10924f4e45463f34f4049be5584b674fb1b16fcf71c1cc2ec7"
+    },
+    {
+      "name": "detector.tar.gz.part014",
+      "size": 19922944,
+      "sha256": "9f692b0dac9dd1502e608cefb6ae3bd717b35b4538d7c39fa07f1c1706bf1ad5"
+    },
+    {
+      "name": "detector.tar.gz.part015",
+      "size": 19922944,
+      "sha256": "f855038a6323a2d626bf91f6acb2716408ca2123cf0ec6335f1dca2e573d707f"
+    },
+    {
+      "name": "detector.tar.gz.part016",
+      "size": 19922944,
+      "sha256": "09fe4c3ab2766545975099357ff4e9ad77502769e0b9b8329a4ca80a9aa2a776"
+    },
+    {
+      "name": "detector.tar.gz.part017",
+      "size": 19922944,
+      "sha256": "fbef53a216a2e2f6c5a2a8388f83398154175d9f1436a4fcefe2b31617d0673d"
+    },
+    {
+      "name": "detector.tar.gz.part018",
+      "size": 19922944,
+      "sha256": "6e7156da94fb88b016993a520f50561c3b0b5cc7108941e5855bcc290bc29275"
+    },
+    {
+      "name": "detector.tar.gz.part019",
+      "size": 19922944,
+      "sha256": "b83c294ae96a199ae26c97628cd181000e0e784a9bc7b8b4448c33e22a55b787"
+    },
+    {
+      "name": "detector.tar.gz.part020",
+      "size": 19922944,
+      "sha256": "efaf8b7ce3f6f180defa7ddea3c85abd4e93e6ee53a255a68bd3a4bfaf9bbdd7"
+    },
+    {
+      "name": "detector.tar.gz.part021",
+      "size": 19320008,
+      "sha256": "b400435ac0a98b349e3708c5bfa848996eeda27c41241fb1b36a0be2dbfddf6c"
+    }
+  ]
+}
