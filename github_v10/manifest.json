@@ -1,0 +1,155 @@
+{
+  "files": [
+    {
+      "name": "model_v10.zip",
+      "size": 422634655,
+      "sha256": "26bf300b6218f9ad81d5110b3f83458ea582aa78d003da03c5546f8c0394abc7",
+      "parts": [
+        {
+          "name": "model_v10.zip.part001",
+          "size": 19922944,
+          "sha256": "b442627284aa472face0ba71e3ec440efd5646a60b113041bc299674b2c621a3"
+        },
+        {
+          "name": "model_v10.zip.part002",
+          "size": 19922944,
+          "sha256": "539ea31c45cf70e6c03463dfcfdb1aee9213c26b9595b599ca751783669f1f59"
+        },
+        {
+          "name": "model_v10.zip.part003",
+          "size": 19922944,
+          "sha256": "6ee701013b45e82e53a3c7cf59d07b7c2e2d9a126fdd515b1620450381740550"
+        },
+        {
+          "name": "model_v10.zip.part004",
+          "size": 19922944,
+          "sha256": "7353e142c2cf7280a2d2ca44e592e471637915f1b334a5ff5241ef6258b3cffb"
+        },
+        {
+          "name": "model_v10.zip.part005",
+          "size": 19922944,
+          "sha256": "4d87b6ff8fd3e493b9594eea36501223e92ed197e65d73c93b7b7d4c3dcfd9c3"
+        },
+        {
+          "name": "model_v10.zip.part006",
+          "size": 19922944,
+          "sha256": "71d5b1f9de57c2f2f0628da35cf78042df6ff7b20313fb8729ffedda17dc4c0b"
+        },
+        {
+          "name": "model_v10.zip.part007",
+          "size": 19922944,
+          "sha256": "3c5963c0689846cf4a52a0e9b7d36da444c5646e9892bc608984b15414df6738"
+        },
+        {
+          "name": "model_v10.zip.part008",
+          "size": 19922944,
+          "sha256": "bfcdbbb47df8727ddfeb71f63985f2f815b5c36ddc2f345d9927ab3fa0eaceb9"
+        },
+        {
+          "name": "model_v10.zip.part009",
+          "size": 19922944,
+          "sha256": "408c2fd2c7b5f3527972fdf8f8471808c412999b89e270d7d720fb4df1effaac"
+        },
+        {
+          "name": "model_v10.zip.part010",
+          "size": 19922944,
+          "sha256": "68906d7c337846e2238cbdf3aac4bf034671c56bbab1c92b9f720f5044664636"
+        },
+        {
+          "name": "model_v10.zip.part011",
+          "size": 19922944,
+          "sha256": "6f986dff871bd613acae8dd74a2ef407efa92b9704ae06beaa09e56391acb8aa"
+        },
+        {
+          "name": "model_v10.zip.part012",
+          "size": 19922944,
+          "sha256": "96510e7b42db5ee2e790355f6e1f95c1c093cfe70446a1fe30ec0b02276bba18"
+        },
+        {
+          "name": "model_v10.zip.part013",
+          "size": 19922944,
+          "sha256": "c4020150e919b7a591a1056a1c49a3de65fa03d21788727754f9459c3cceae91"
+        },
+        {
+          "name": "model_v10.zip.part014",
+          "size": 19922944,
+          "sha256": "579542f4e9875bab6717946a5cfd4468b57236952815d96b7059b57615e5d98a"
+        },
+        {
+          "name": "model_v10.zip.part015",
+          "size": 19922944,
+          "sha256": "a4b7658bbb1c1c4f9bf81e0371821a27c24180c72d7942f237e05f703393547a"
+        },
+        {
+          "name": "model_v10.zip.part016",
+          "size": 19922944,
+          "sha256": "e1dc6295ce348cb9941991a3806de7e52a2cc8dbd24b9f3bf68d5010699a9d36"
+        },
+        {
+          "name": "model_v10.zip.part017",
+          "size": 19922944,
+          "sha256": "6a93f9ea3529e34a3b0fb4887871902b54873023cfce5545f61daa80bc6ad303"
+        },
+        {
+          "name": "model_v10.zip.part018",
+          "size": 19922944,
+          "sha256": "86749ee5127d26a2db18a80b5c001880170cdc05775936ae86570c19979a99bb"
+        },
+        {
+          "name": "model_v10.zip.part019",
+          "size": 19922944,
+          "sha256": "ae090837cf2329f35f0ed61c65fc465c76e1254395ac8a69c87025a077abbb3d"
+        },
+        {
+          "name": "model_v10.zip.part020",
+          "size": 19922944,
+          "sha256": "33b87d43b2fadfebcb8bf85cb3d046c8bdbff0a9159077a57d87c4d5e64e4cc0"
+        },
+        {
+          "name": "model_v10.zip.part021",
+          "size": 19922944,
+          "sha256": "aff9889d56653b5127c722adb7d8cfc05111449f9ac94d93aefea24058a96c67"
+        },
+        {
+          "name": "model_v10.zip.part022",
+          "size": 4252831,
+          "sha256": "aaaf88b5306cdb24f5d8f47a5ea24bc921a4555ab345b2d4c1c5d727d261dae8"
+        }
+      ]
+    },
+    {
+      "name": "validation_v10.zip",
+      "size": 134612,
+      "sha256": "bb27a0e3f92a7d20fcbd145638a15387d48f881df298a3a9b30f895aedb8ca5d",
+      "parts": [
+        {
+          "name": "validation_v10.zip.part001",
+          "size": 67306,
+          "sha256": "9f5480f2ef6a317266f71a9e02f987ee6f91854b85372aac3d42c61196e65abc"
+        },
+        {
+          "name": "validation_v10.zip.part002",
+          "size": 67306,
+          "sha256": "eda5f9e777bf7ef49d20dead51b3f69c338fee4e63924849d5ac6b0a9ab27eb4"
+        }
+      ]
+    },
+    {
+      "name": "training_v10.zip",
+      "size": 11346732,
+      "sha256": "ff823401de6795603c10ae7e857a4a8fa8568f7182dc53e4a72a674feabefc41",
+      "parts": [
+        {
+          "name": "training_v10.zip.part001",
+          "size": 5673366,
+          "sha256": "eda9b37294397233beaac5eaeb50d67877f77afa15f21d950bc385093e8c13f3"
+        },
+        {
+          "name": "training_v10.zip.part002",
+          "size": 5673366,
+          "sha256": "9a83e74990ec779677996cb1e3d667aca6474982ad532f7ee0fc580fc5cbf8ad"
+        }
+      ]
+    }
+  ]
+}
