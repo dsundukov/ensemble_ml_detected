@@ -1,0 +1,121 @@
+{
+  "files": [
+    {
+      "name": "model_v8.zip",
+      "size": 421688024,
+      "sha256": "c068ba1ff23a080a037e844c19e36621529f8f83b324c8d435b1a24c7dcf2595",
+      "parts": [
+        {
+          "name": "model_v8.zip.part001",
+          "size": 19922944,
+          "sha256": "0357e2e2f893c4ae5f71e18cdf6c7a9cf8e96b9842c9baa130cbf59efc86705c"
+        },
+        {
+          "name": "model_v8.zip.part002",
+          "size": 19922944,
+          "sha256": "952f6c23113ff2565167a32f73d04851ee9f2cb33eb94912d222291f7722c51c"
+        },
+        {
+          "name": "model_v8.zip.part003",
+          "size": 19922944,
+          "sha256": "1f1a8841d4c128756aab0c5927786e0634c7aff90e029cda7d7a966162bc1b67"
+        },
+        {
+          "name": "model_v8.zip.part004",
+          "size": 19922944,
+          "sha256": "adc1fe9887456f37070b28c7800c14ad18345b3846ad98e036967195f538193b"
+        },
+        {
+          "name": "model_v8.zip.part005",
+          "size": 19922944,
+          "sha256": "e05dca62e73d1704aa784b653074e36d3fe27d68bf60fb64885eb8bc1eece4ff"
+        },
+        {
+          "name": "model_v8.zip.part006",
+          "size": 19922944,
+          "sha256": "3ec09234e6a0b6591e957635d2cbb0f950fdcd6d266a3193bd7dc8ccc0785272"
+        },
+        {
+          "name": "model_v8.zip.part007",
+          "size": 19922944,
+          "sha256": "6c87ead2a46941eb2c18a1af83dc2efc98a6983665ead2e0ae87b6cb4ff23fb5"
+        },
+        {
+          "name": "model_v8.zip.part008",
+          "size": 19922944,
+          "sha256": "0c28f854e940a707edc8feb938fb15592cdca9df6b22f6680a474b1c0b62e62d"
+        },
+        {
+          "name": "model_v8.zip.part009",
+          "size": 19922944,
+          "sha256": "652e416d92150048e0bea8c9151bc67dfab89177c911fa8a6d4ef1cf08504446"
+        },
+        {
+          "name": "model_v8.zip.part010",
+          "size": 19922944,
+          "sha256": "d8a8d7c1e05b353ad3df102914a329e1ace96ab6baa06d124c68f5e145086d68"
+        },
+        {
+          "name": "model_v8.zip.part011",
+          "size": 19922944,
+          "sha256": "e4e553397d29a35f4eab23c9658b97040a274e1c455286f0c90ce6efde442edc"
+        },
+        {
+          "name": "model_v8.zip.part012",
+          "size": 19922944,
+          "sha256": "694323e44f1c716f2ba251a9d7448169b6fffaf4627e46f05588282dd18abb7d"
+        },
+        {
+          "name": "model_v8.zip.part013",
+          "size": 19922944,
+          "sha256": "a6c2cbf1f52a0c3e48486e67e86a60336c057a80559d04e2805326148dc93958"
+        },
+        {
+          "name": "model_v8.zip.part014",
+          "size": 19922944,
+          "sha256": "c7fa0565d32e77331cacfcadf7be998c4c74e592a987dde0ccfb50d8a0754131"
+        },
+        {
+          "name": "model_v8.zip.part015",
+          "size": 19922944,
+          "sha256": "32e33f8fd74824644a12a9b1994c9f78f2e684d330c75baf066f01ef0df56726"
+        },
+        {
+          "name": "model_v8.zip.part016",
+          "size": 19922944,
+          "sha256": "c3ffcd228188482b12bde76c62778bde41f185e4a6e0d0cf24be3fdd23c8c2e4"
+        },
+        {
+          "name": "model_v8.zip.part017",
+          "size": 19922944,
+          "sha256": "8142cce9b17ed77c6674b37643161361f33bca454549c6e6636a8ba6f6574d39"
+        },
+        {
+          "name": "model_v8.zip.part018",
+          "size": 19922944,
+          "sha256": "94277965ccd6564bb800f254d3b5416c8a9193292d43f972338e3127ef92a5ce"
+        },
+        {
+          "name": "model_v8.zip.part019",
+          "size": 19922944,
+          "sha256": "d1ea7a8cd8244ef891806a4c68db955652e08619e867756c66884101aa28ccae"
+        },
+        {
+          "name": "model_v8.zip.part020",
+          "size": 19922944,
+          "sha256": "c49805980f550fade29a645a8464d673e9b0aeb7438565910b54f2a2c8a4c801"
+        },
+        {
+          "name": "model_v8.zip.part021",
+          "size": 19922944,
+          "sha256": "cad732fee28a1484690271f5d5c8e60337e17ffb36659d92e4790e4eb4ac126b"
+        },
+        {
+          "name": "model_v8.zip.part022",
+          "size": 3306200,
+          "sha256": "735104c224958ac67a285851fc6b7eda5e1813594cec429367242908d20d4eb1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "threshold": 0.11338829665616999,
+  "gray_low": 0.040249810876887025,
+  "threshold_source": "threshold_data",
+  "threshold_mode": "recall",
+  "target_recall": 0.85,
+  "target_fpr": 0.01,
+  "seed": 42,
+  "stride": 32,
+  "early_benign": 0.02,
+  "early_attack": 0.98,
+  "feature_names": [
+    "logit_tfidf",
+    "logit_rubert",
+    "logit_minilm",
+    "cyr_ratio",
+    "cyr_x_rubert",
+    "lat_x_minilm",
+    "mixed_script",
+    "invisible"
+  ],
+  "transformers": [
+    {
+      "name": "rubert_tiny2",
+      "hf_id": "cointegrated/rubert-tiny2",
+      "max_length": 128,
+      "epochs": 3,
+      "batch_size": 32,
+      "lr": 5e-05,
+      "weight_decay": 0.01,
+      "warmup_ratio": 0.06,
+      "freeze_embeddings": false
+    },
+    {
+      "name": "minilm",
+      "hf_id": "microsoft/Multilingual-MiniLM-L12-H384",
+      "max_length": 128,
+      "epochs": 3,
+      "batch_size": 32,
+      "lr": 2e-05,
+      "weight_decay": 0.01,
+      "warmup_ratio": 0.1,
+      "freeze_embeddings": true
+    }
+  ],
+  "prompt_guard_id": "meta-llama/Llama-Prompt-Guard-2-86M",
+  "prompt_guard_low": 0.3,
+  "prompt_guard_high": 0.7
+}
